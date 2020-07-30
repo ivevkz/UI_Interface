@@ -25,7 +25,7 @@ TextureImporter:
     second: UI_menu_Start3
   - first:
       213: 2133095681487807743
-    second: UI_menu_7
+    second: UI_menu_U1
   - first:
       213: 3431775839344436371
     second: UI_menu_Setting1
@@ -44,6 +44,36 @@ TextureImporter:
   - first:
       213: -6024014310890411605
     second: UI_menu_Exit3
+  - first:
+      213: -2027043566238079449
+    second: UI_menu_LineStart
+  - first:
+      213: -3019990742859338614
+    second: UI_menu_U2
+  - first:
+      213: -7802849078664482403
+    second: UI_menu_U3
+  - first:
+      213: 8143329196428574203
+    second: UI_menu_LineSetting
+  - first:
+      213: -4435040827196610523
+    second: UI_menu_LineExit
+  - first:
+      213: -6678298660270261181
+    second: UI_menu_Musor1
+  - first:
+      213: 5121383881205731068
+    second: UI_menu_Musor2
+  - first:
+      213: 6659429927393698999
+    second: UI_menu_Musor3
+  - first:
+      213: -4819842780024015432
+    second: UI_menu_Musor4
+  - first:
+      213: -7498134556287416926
+    second: UI_menu_Musor6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -312,13 +342,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_menu_7
+      name: UI_menu_U1
       rect:
         serializedVersion: 2
-        x: 724
-        y: 649
-        width: 137
-        height: 252
+        x: 744
+        y: 659
+        width: 95
+        height: 239
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,6 +484,216 @@ TextureImporter:
       bones: []
       spriteID: ba9e18d96e6666ca0800000000000000
       internalID: -6024014310890411605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_LineStart
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 839
+        width: 213
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266322cd9e7ed3e0800000000000000
+      internalID: -2027043566238079449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_U2
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 683
+        width: 93
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca6e28b66d616d0800000000000000
+      internalID: -3019990742859338614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_U3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 674
+        width: 102
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91383eaa16b6b390800000000000000
+      internalID: -7802849078664482403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_LineSetting
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 760
+        width: 312
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd313a42cae20170800000000000000
+      internalID: 8143329196428574203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_LineExit
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 659
+        width: 244
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52867929dd19372c0800000000000000
+      internalID: -4435040827196610523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_Musor1
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 390
+        width: 154
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cbf9a60cae153a0800000000000000
+      internalID: -6678298660270261181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_Musor2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 46
+        width: 1474
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfecda5718fc21740800000000000000
+      internalID: 5121383881205731068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_Musor3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 161
+        width: 1162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b428ec5c3c0b6c50800000000000000
+      internalID: 6659429927393698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_Musor4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 238
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5ff67378a7c1db0800000000000000
+      internalID: -4819842780024015432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_menu_Musor6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1511
+        width: 218
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5486e095641f790800000000000000
+      internalID: -7498134556287416926
       vertices: []
       indices: 
       edges: []
